@@ -76,7 +76,7 @@ The cleaned dataset can be used for:
 
  Project Files
 Raw Dataset – [Raw Dataset](./Dataset/retail_store_sales.csv) – Original dataset obtained from Kaggle
-Cleaned Dataset– [Cleaned Dataset](./Dataset/retail_store_sales_datacleaning.xlsx) – Dataset after data cleaning and validation
+Cleaned Dataset– Retail_store_sales_datacleaning_.xlsx – Dataset after data cleaning and validation
 
  Key Learning
 Through this task, I gained practical experience in identifying real-world data-quality problems and preparing raw data for reliable analysis.
