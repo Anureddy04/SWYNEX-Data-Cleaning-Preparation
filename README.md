@@ -1,6 +1,6 @@
 SWYNEX – Data Cleaning & Preparation
 Project Overview
-This project was completed as part of Task 1 of my SWYNEX internship**.
+This project was completed as part of Task 1 of my SWYNEX internship.
 The objective of this task was to clean and prepare a raw retail sales dataset for further analysis by identifying and handling data-quality issues such as missing values, duplicate records, incorrect data types, and inconsistent values.
 
  Dataset
