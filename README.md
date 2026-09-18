@@ -75,8 +75,8 @@ The cleaned dataset can be used for:
 * Data Standardization
 
 📁 Project Files
-Raw Dataset – https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning?resource=download (Original dataset obtained from Kaggle)
-Cleaned Dataset– [retail\_store\_sales\_datacleaning.csv.xlsx](https://1drv.ms/x/c/46679341a1016e0f/IQDL1DkrOJOOR6U3h19F-jlaAT_3y3T6mdgR2X89JT4QGtI?e=0IG1cQ)   Dataset after data cleaning and validation
+Raw Dataset – [Raw Dataset](./Dataset/retail_store_sales.csv) – Original dataset obtained from Kaggle
+Cleaned Dataset– [Cleaned Dataset](./Dataset/retail_store_sales_datacleaning.xlsx) – Dataset after data cleaning and validation
 
 🎯 Key Learning
 Through this task, I gained practical experience in identifying real-world data-quality problems and preparing raw data for reliable analysis.
