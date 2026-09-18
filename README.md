@@ -1,9 +1,9 @@
 SWYNEX – Data Cleaning & Preparation
-📌 Project Overview
+Project Overview
 This project was completed as part of Task 1 of my SWYNEX internship**.
 The objective of this task was to clean and prepare a raw retail sales dataset for further analysis by identifying and handling data-quality issues such as missing values, duplicate records, incorrect data types, and inconsistent values.
 
-📊 Dataset
+ Dataset
 Dataset: Retail Store Sales – Dirty for Data Cleaning
 Source: Kaggle
 Tool Used: Microsoft Excel
@@ -21,7 +21,7 @@ The dataset contains retail transaction information including:
 * Transaction Date
 * Discount Applied
 
-🔍 Data Quality Issues Identified
+ Data Quality Issues Identified
 The raw dataset was inspected for the following issues:
 1. Missing values
 2. Duplicate records
@@ -30,7 +30,7 @@ The raw dataset was inspected for the following issues:
 5. Invalid or inconsistent transaction values
 6. Extra spaces and formatting inconsistencies
 
-🧹 Data Cleaning Performed
+ Data Cleaning Performed
 The dataset was cleaned using Microsoft Excel.
 1. Missing Values
 Missing values were identified using Excel filters and formulas.
@@ -56,7 +56,7 @@ Transaction values were reviewed for logical consistency, including checking the
 Quantity × Price Per Unit = Total Spent
 Potential incorrect values were investigated and corrected where sufficient information was available.
 
-✅ Final Result
+ Final Result
 After cleaning and validation, the dataset was prepared for further analysis.
 The cleaned dataset can be used for:
 * Exploratory Data Analysis
@@ -65,7 +65,7 @@ The cleaned dataset can be used for:
 * Product analysis
 * Visualization and reporting
 
-🛠️ Tools & Skills Used
+ Tools & Skills Used
 * Microsoft Excel
 * Data Cleaning
 * Data Validation
@@ -74,9 +74,9 @@ The cleaned dataset can be used for:
 * Data Type Correction
 * Data Standardization
 
-📁 Project Files
+ Project Files
 Raw Dataset – [Raw Dataset](./Dataset/retail_store_sales.csv) – Original dataset obtained from Kaggle
 Cleaned Dataset– [Cleaned Dataset](./Dataset/retail_store_sales_datacleaning.xlsx) – Dataset after data cleaning and validation
 
-🎯 Key Learning
+ Key Learning
 Through this task, I gained practical experience in identifying real-world data-quality problems and preparing raw data for reliable analysis.
